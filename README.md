@@ -1,9 +1,5 @@
 # Plant-disease-Prediction
 
-Sure thing, Pardi! Here's a comprehensive and well-structured report on **Plant Disease Prediction**, tailored to your current project goals and skills.
-
----
-
 ## 🌿 Plant Disease Prediction Using Deep Learning
 
 ### 🔍 Introduction
@@ -66,5 +62,3 @@ Plant diseases significantly reduce agricultural yield and quality. Early detect
 Deep learning-based plant disease prediction offers scalable solutions for farmers and agriculturists. With lightweight models and thoughtful integration, real-time, accurate, and accessible disease diagnostics are within reach—helping improve crop health and productivity.
 
 ---
-
-Would you like to expand any part into a presentation or add specific metrics from your current model training? I can also help format this into a report structure for publication or sharing.
