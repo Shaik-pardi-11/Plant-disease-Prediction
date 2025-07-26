@@ -1,1 +1,4 @@
 # Plant-disease-Prediction
+
+
+https://rexsimiloluwah.github.io/PLANT-DISEASE-CLASSIFIER-WEB-APP-TENSORFLOWJS/index.html --- Link to test how the Leaves of the plant is affected.
