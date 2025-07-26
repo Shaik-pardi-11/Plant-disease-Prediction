@@ -1,0 +1,50 @@
+{
+  "Apple Scab": {
+    "description": "Apple Scab is caused by the fungus *Venturia inaequalis*. It appears as olive-green spots on leaves and fruits, leading to premature fruit drop.",
+    "remedies": [
+      "Prune and discard infected leaves",
+      "Improve air circulation around the tree",
+      "Apply fungicides like captan or myclobutanil during early spring"
+    ]
+  },
+  "Cherry Powdery Mildew": {
+    "description": "This disease, caused by *Podosphaera clandestina*, creates a white powdery layer on leaves and shoots, affecting growth and fruit quality.",
+    "remedies": [
+      "Remove infected plant parts",
+      "Avoid overhead watering",
+      "Use sulfur-based fungicides"
+    ]
+  },
+  "Corn Common Rust": {
+    "description": "Caused by the fungus *Puccinia sorghi*, this disease results in rust-colored pustules on leaves and can reduce yield.",
+    "remedies": [
+      "Grow rust-resistant corn varieties",
+      "Use crop rotation practices",
+      "Apply foliar fungicides if conditions are favorable for rust"
+    ]
+  },
+  "Grape Leaf Blight": {
+    "description": "Leaf blight in grapes is commonly caused by *Pseudocercospora vitis*. Symptoms include browning leaf margins and defoliation.",
+    "remedies": [
+      "Remove infected leaves",
+      "Improve field sanitation",
+      "Apply copper-based fungicides"
+    ]
+  },
+  "Peach Bacterial Spot": {
+    "description": "This disease is caused by *Xanthomonas campestris*. It creates dark lesions on fruit and leaves, affecting market quality.",
+    "remedies": [
+      "Avoid wetting foliage during irrigation",
+      "Remove infected twigs and shoots",
+      "Use bactericides with copper compounds"
+    ]
+  },
+  "Tomato Leaf Mold": {
+    "description": "Leaf Mold is caused by *Passalora fulva* and thrives in humid conditions. Yellow patches and moldy growth appear on the underside of leaves.",
+    "remedies": [
+      "Ensure good air circulation",
+      "Avoid overhead watering",
+      "Apply fungicides like chlorothalonil or copper-based sprays"
+    ]
+  }
+}
