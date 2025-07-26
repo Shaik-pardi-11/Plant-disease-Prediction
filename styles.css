@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+  background: #f0fdf4;
+  color: #333;
+  line-height: 1.6;
+}
+
+.hero {
+  background-image: url('https://images.unsplash.com/photo-1587300003388-59208cc962cb');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 1.2em;
+}
+
+.diseases {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.diseases h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  overflow: hidden;
+  width: 300px;
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card h3 {
+  margin: 10px 0 5px;
+}
+
+.card p {
+  padding: 0 10px 20px;
+  font-size: 0.95em;
+}
+
+.how-it-works {
+  background: #e6fffa;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+footer {
+  background: #065f46;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Plant Disease Prediction</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <h1>🌿 Plant Disease Prediction</h1>
+    <p>Identify plant diseases using AI & Image Processing</p>
+  </header>
+
+  <section class="diseases">
+    <h2>Common Plant Diseases</h2>
+    <div class="cards">
+      <div class="card">
+        <img src="https://via.placeholder.com/300x200?text=Leaf+Blight" alt="Leaf Blight">
+        <h3>Leaf Blight</h3>
+        <p>Brown or black spots on leaves causing leaf death.</p>
+      </div>
+      <div class="card">
+        <img src="https://via.placeholder.com/300x200?text=Powdery+Mildew" alt="Powdery Mildew">
+        <h3>Powdery Mildew</h3>
+        <p>White powdery growth on leaf surfaces and stems.</p>
+      </div>
+      <div class="card">
+        <img src="https://via.placeholder.com/300x200?text=Rust+Disease" alt="Rust Disease">
+        <h3>Rust Disease</h3>
+        <p>Rust-colored spots that reduce plant photosynthesis.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="how-it-works">
+    <h2>How Prediction Works</h2>
+    <p>Using machine learning and computer vision, our system scans leaf images and compares them with a trained model to detect diseases accurately.</p>
+  </section>
+
+  <section class="upload-predict">
+    <h2>Upload Image for Prediction</h2>
+    <form method="POST" enctype="multipart/form-data">
+      <input type="file" name="plant-image" accept="image/*" required>
+      <button type="submit">Upload & Predict</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 PlantCare AI</p>
+  </footer>
+</body>
+</html>
