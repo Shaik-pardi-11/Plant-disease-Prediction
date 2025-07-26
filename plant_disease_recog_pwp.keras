@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Plant Disease Predictor</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Plant Disease Predictor 🌿</h1>
+    <p>Upload a leaf image and detect potential diseases using AI.</p>
+  </header>
+
+  <main>
+    <section class="upload-box">
+      <input type="file" id="imageInput" accept="image/*">
+      <button onclick="predictDisease()">Predict Disease</button>
+      <div id="preview"></div>
+      <div id="result"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Made with  for plant health.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
