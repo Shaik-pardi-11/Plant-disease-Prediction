@@ -1,4 +1,3 @@
-<img width="1914" height="1031" alt="Screenshot 2025-07-26 151657" src="https://github.com/user-attachments/assets/2ba28156-7da4-4a20-a09e-98de7497aa2a" />
 
 # Plant-disease-Prediction
 
@@ -57,6 +56,8 @@ Plant diseases significantly reduce agricultural yield and quality. Early detect
 - Use TensorFlow Lite for mobile compatibility.
 - Consider Docker for scalable deployment.
 - Monitor predictions and retrain the model periodically with new data.
+
+- <img width="1914" height="1031" alt="Screenshot 2025-07-26 151657" src="https://github.com/user-attachments/assets/2ba28156-7da4-4a20-a09e-98de7497aa2a" />
 
 ---
 
